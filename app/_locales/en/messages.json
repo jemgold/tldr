@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "tldr",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Way too busy for Medium",
+    "description": "The description of the application"
+  }
+}
